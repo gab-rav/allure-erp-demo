@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Allure">
+  <defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#343438"/><stop offset="1" stop-color="#1d1d1f"/></linearGradient></defs>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="url(#surface)" stroke="#000" stroke-opacity=".1"/>
+  <g fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="m32 15 18 10-18 10-18-10 18-10Z"/><path d="m14 33 18 10 18-10m-36 8 18 10 18-10"/></g>
+</svg>

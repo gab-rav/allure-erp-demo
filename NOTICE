@@ -1,0 +1,10 @@
+Allure ERP
+Copyright 2026 Gabriel Ravindran and contributors.
+
+This repository contains a new public manufacturing workflow implementation,
+original documentation and diagrams, fictional demonstration data, and
+order-quantity helpers adapted from software built for Allure Laboratories.
+See docs/provenance.md for the boundary of this release.
+
+Licensed under the Apache License, Version 2.0.
+No rights to customer data, third-party marks or private business records are granted.
